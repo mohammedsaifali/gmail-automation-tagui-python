@@ -1,4 +1,4 @@
-impor rpa as r
+import rpa as r
 array_items = []
 csv_file = 'taguiemails.csv'
 lines = r.load(csv_file)
